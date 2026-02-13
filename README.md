@@ -1,4 +1,4 @@
-<br />
+<!-- <br />
 
 ## 🔗 [Live Demo](https://ravikantmahi.github.io/Be-My-Valentine-2/)
 
@@ -75,4 +75,4 @@ This isn't just another Valentine's page. **Be-My-Valentine-2** is an interactiv
 
 <p align="center">
 Made with 💕 and a little bit of mischief by Ravi Kant
-</p>
+</p> -->
